@@ -1,7 +1,7 @@
 ---
 title: Alice Bighetti (吳恩達)
 role: 数据科学家
-avatar_filename: avatar.jpg
+avatar_filename: avatar1.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
